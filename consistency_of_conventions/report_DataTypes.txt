@@ -1,0 +1,26 @@
+Occurrences of DataTypes across conventions
+
+Transfer Function (6)
+FreeFieldDirectivityTF 1.0 (TF)
+FreeFieldHRTF 1.0 (TF-E)
+GeneralTF-E 1.0 (TF-E)
+GeneralTF 1.0 (TF)
+GeneralTF 2.0 (TF)
+SimpleFreeFieldHRTF 2.0 (TF)
+
+Impulse Response (11)
+FreeFieldHRIR 1.0 (FIR-E)
+GeneralFIR-E 2.0 (FIR-E)
+GeneralFIRE 1.0 (FIRE)
+GeneralFIR 1.0 (FIR)
+GeneralFIR 2.0 (FIR)
+MultiSpeakerBRIR 0.3 (FIRE)
+SimpleFreeFieldHRIR 1.0 (FIR)
+SimpleHeadphoneIR 1.0 (FIR)
+SingleRoomDRIR 0.3 (FIR)
+SingleRoomMIMOSRIR 1.0 (FIR-E)
+SingleRoomSRIR 1.0 (FIR)
+
+SOS (2)
+SimpleFreeFieldHRSOS 1.0 (SOS)
+SimpleFreeFieldSOS 1.0 (SOS)

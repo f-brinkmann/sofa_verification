@@ -1,0 +1,75 @@
+Reading errors
+--------------
+
+1 Time: Convention 'SimpleFreeFieldTF' does not exist
+- sofa_api_mo_test-ARI_NH4_4_freqs.sofa
+
+14 Times: Version 0.4 does not exist for convention SimpleFreeFieldHRIR
+
+- examples-SimpleFreeFieldHRIR.sofa
+- sofa_api_mo_test-ARI_NH2_hrtf_M_dtf 256.sofa
+- sofa_api_mo_test-ARI_NH4_hrtf_M_dtf 256.sofa
+- sofa_api_mo_test-CIPIC_subject_003_hrir_final.sofa
+- sofa_api_mo_test-FHK_HRIR_L2354.sofa
+- sofa_api_mo_test-LISTEN_1002_IRC_1002_C_HRIR.sofa
+- sofa_api_mo_test-MIT_KEMAR_large_pinna.sofa
+- sofa_api_mo_test-MIT_KEMAR_normal_pinna.sofa
+- sofa_api_mo_test-Pulse.sofa
+- sofa_api_mo_test-TU-Berlin_QU_KEMAR_anechoic_radius_0.5_1_2_3_m.sofa
+- sofa_api_mo_test-TU-Berlin_QU_KEMAR_anechoic_radius_0.5m.sofa
+- sofa_api_mo_test-TU-Berlin_QU_KEMAR_anechoic_radius_1m.sofa
+- sofa_api_mo_test-TU-Berlin_QU_KEMAR_anechoic_radius_2m.sofa
+- sofa_api_mo_test-TU-Berlin_QU_KEMAR_anechoic_radius_3m.sofa
+
+3 Times: Version 0.1 does not exist for convention SimpleHeadphoneIR
+- examples-SimpleHeadphoneIR.sofa
+- sofa_api_mo_test-BTdei-hp_H010-subj_S115-Set02-COMPENSATED.sofa
+- sofa_api_mo_test-hpir_nh5.sofa
+
+4 Times: Version 0.2 does not exist for convention SimpleHeadphoneIR
+- headphones-ari-hpir_nh2.sofa
+- headphones-btdei-H010-BTDEI-hp_H010-subj_S115-Set02_BEC-COMPENSATED.sofa
+- headphones-btdei-H010-BTDEI-hp_H010-subj_S115-Set02_BEC-RAW.sofa
+- headphones-tu-berlin-HpIRs.sofa
+
+1 Time: Version 0.2 does not exist for convention SingleRoomDRIR
+- sofa_api_mo_test-Oldenburg_OfficeII.sofa
+
+
+Violations of the SOFA standard
+-------------------------------
+
+8 Times: *_Units is Hertz but must be hertz (writing only)
+- examples-FreeFieldDirectivityTF.sofa (FreeFieldDirectivityTF)
+- examples-GeneralFIR.sofa (GeneralFIR)
+- examples-SimpleHeadphoneIR.sofa (SimpleHeadphoneIR)
+- sofa_api_mo_test-hpir_nh5.sofa (SimpleHeadphoneIR)
+- tu-berlin (directivity)-ITA_Dodecahedron.sofa (FreeFieldDirectivityTF)
+- tu-berlin (directivity)-Trumpet_modern_et_ff_a4_rawData.sofa (FreeFieldDirectivityTF)
+- tu-berlin (directivity)-Trumpet_modern_et_ff_all_tensorData.sofa (FreeFieldDirectivityTF)
+- headphones-ari-hpir_nh2.sofa (SimpleHeadphoneIR)
+
+4 Times: Dimension E is of size 9 but must be 1 if GLOBAL_SOFAConventions is SimpleFreeFieldHRIR
+- 3d3a-Subject1_BIRs.sofa (SimpleFreeFieldHRIR)
+- 3d3a-Subject1_HRIRs.sofa (SimpleFreeFieldHRIR)
+- 3d3a-Subject1_HRIRs_dfeq.sofa (SimpleFreeFieldHRIR)
+- 3d3a-Subject1_HRIRs_lfc.sofa (SimpleFreeFieldHRIR)
+
+4 Times: GLOBAL_RoomType is *
+- oldenburg-Kayser2009_Anechoic.sofa (SimpleFreeFieldHRIR)
+- room transition dataset-Room Transition RIRs_Meeting Room to Hallway_Source in Hallway_No Line of Sight.sofa (GeneralFIR)
+- 6dof dataset-6DoF_SRIRs_eigenmike_SH_0percent_absorbers_enabled.sofa (GeneralFIR)
+
+Custom Variables
+----------------
+Reduntant attributes ListenerUp_Type, ListenerUp_Units, SourceUp_Type, SourceUp_Units
+- examples-FreeFieldDirectivityTF.sofa (FreeFieldDirectivityTF)
+
+Misspelled attributes: GLOBAL_Reference
+- examples-FreeFieldDirectivityTF.sofa (FreeFieldDirectivityTF)
+
+
+Unification - Comments
+----------------------
+ListenerView_Type and SourceView_Type: Note that this also holds for *Up_Type
+ListenerView_Type and SourceView_Type: Note that this also holds for *Up_Type

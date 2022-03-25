@@ -1,0 +1,975 @@
+The following data is not contained in the following conventions
+
+ListenerView  (6)
+    GeneralFIR-E 2.0
+    GeneralFIRE 1.0
+    GeneralTF-E 1.0
+    GeneralTF 1.0
+    GeneralTF 2.0
+    SimpleHeadphoneIR 1.0
+
+ListenerView_Type  (6)
+    GeneralFIR-E 2.0
+    GeneralFIRE 1.0
+    GeneralTF-E 1.0
+    GeneralTF 1.0
+    GeneralTF 2.0
+    SimpleHeadphoneIR 1.0
+
+ListenerView_Units  (6)
+    GeneralFIR-E 2.0
+    GeneralFIRE 1.0
+    GeneralTF-E 1.0
+    GeneralTF 1.0
+    GeneralTF 2.0
+    SimpleHeadphoneIR 1.0
+
+Data_SamplingRate  (6)
+    FreeFieldDirectivityTF 1.0
+    FreeFieldHRTF 1.0
+    GeneralTF-E 1.0
+    GeneralTF 1.0
+    GeneralTF 2.0
+    SimpleFreeFieldHRTF 2.0
+
+Data_SamplingRate_Units  (6)
+    FreeFieldDirectivityTF 1.0
+    FreeFieldHRTF 1.0
+    GeneralTF-E 1.0
+    GeneralTF 1.0
+    GeneralTF 2.0
+    SimpleFreeFieldHRTF 2.0
+
+Data_Delay  (6)
+    FreeFieldDirectivityTF 1.0
+    FreeFieldHRTF 1.0
+    GeneralTF-E 1.0
+    GeneralTF 1.0
+    GeneralTF 2.0
+    SimpleFreeFieldHRTF 2.0
+
+GLOBAL_DatabaseName  (7)
+    GeneralFIR-E 2.0
+    GeneralFIRE 1.0
+    GeneralFIR 1.0
+    GeneralFIR 2.0
+    GeneralTF-E 1.0
+    GeneralTF 1.0
+    GeneralTF 2.0
+
+Data_IR  (8)
+    FreeFieldDirectivityTF 1.0
+    FreeFieldHRTF 1.0
+    GeneralTF-E 1.0
+    GeneralTF 1.0
+    GeneralTF 2.0
+    SimpleFreeFieldHRSOS 1.0
+    SimpleFreeFieldHRTF 2.0
+    SimpleFreeFieldSOS 1.0
+
+ListenerUp  (8)
+    GeneralFIR-E 2.0
+    GeneralFIRE 1.0
+    GeneralFIR 1.0
+    GeneralFIR 2.0
+    GeneralTF-E 1.0
+    GeneralTF 1.0
+    GeneralTF 2.0
+    SimpleHeadphoneIR 1.0
+
+GLOBAL_ListenerShortName  (9)
+    FreeFieldDirectivityTF 1.0
+    GeneralFIR-E 2.0
+    GeneralFIRE 1.0
+    GeneralFIR 1.0
+    GeneralFIR 2.0
+    GeneralTF-E 1.0
+    GeneralTF 1.0
+    GeneralTF 2.0
+    SingleRoomDRIR 0.3
+
+Data_Real  (13)
+    FreeFieldHRIR 1.0
+    GeneralFIR-E 2.0
+    GeneralFIRE 1.0
+    GeneralFIR 1.0
+    GeneralFIR 2.0
+    MultiSpeakerBRIR 0.3
+    SimpleFreeFieldHRIR 1.0
+    SimpleFreeFieldHRSOS 1.0
+    SimpleFreeFieldSOS 1.0
+    SimpleHeadphoneIR 1.0
+    SingleRoomDRIR 0.3
+    SingleRoomMIMOSRIR 1.0
+    SingleRoomSRIR 1.0
+
+N_Units  (13)
+    FreeFieldHRIR 1.0
+    GeneralFIR-E 2.0
+    GeneralFIRE 1.0
+    GeneralFIR 1.0
+    GeneralFIR 2.0
+    MultiSpeakerBRIR 0.3
+    SimpleFreeFieldHRIR 1.0
+    SimpleFreeFieldHRSOS 1.0
+    SimpleFreeFieldSOS 1.0
+    SimpleHeadphoneIR 1.0
+    SingleRoomDRIR 0.3
+    SingleRoomMIMOSRIR 1.0
+    SingleRoomSRIR 1.0
+
+N_LongName  (13)
+    FreeFieldHRIR 1.0
+    GeneralFIR-E 2.0
+    GeneralFIRE 1.0
+    GeneralFIR 1.0
+    GeneralFIR 2.0
+    MultiSpeakerBRIR 0.3
+    SimpleFreeFieldHRIR 1.0
+    SimpleFreeFieldHRSOS 1.0
+    SimpleFreeFieldSOS 1.0
+    SimpleHeadphoneIR 1.0
+    SingleRoomDRIR 0.3
+    SingleRoomMIMOSRIR 1.0
+    SingleRoomSRIR 1.0
+
+N  (13)
+    FreeFieldHRIR 1.0
+    GeneralFIR-E 2.0
+    GeneralFIRE 1.0
+    GeneralFIR 1.0
+    GeneralFIR 2.0
+    MultiSpeakerBRIR 0.3
+    SimpleFreeFieldHRIR 1.0
+    SimpleFreeFieldHRSOS 1.0
+    SimpleFreeFieldSOS 1.0
+    SimpleHeadphoneIR 1.0
+    SingleRoomDRIR 0.3
+    SingleRoomMIMOSRIR 1.0
+    SingleRoomSRIR 1.0
+
+Data_Imag  (13)
+    FreeFieldHRIR 1.0
+    GeneralFIR-E 2.0
+    GeneralFIRE 1.0
+    GeneralFIR 1.0
+    GeneralFIR 2.0
+    MultiSpeakerBRIR 0.3
+    SimpleFreeFieldHRIR 1.0
+    SimpleFreeFieldHRSOS 1.0
+    SimpleFreeFieldSOS 1.0
+    SimpleHeadphoneIR 1.0
+    SingleRoomDRIR 0.3
+    SingleRoomMIMOSRIR 1.0
+    SingleRoomSRIR 1.0
+
+SourceUp  (14)
+    FreeFieldHRIR 1.0
+    FreeFieldHRTF 1.0
+    GeneralFIR-E 2.0
+    GeneralFIRE 1.0
+    GeneralFIR 1.0
+    GeneralFIR 2.0
+    GeneralTF-E 1.0
+    GeneralTF 1.0
+    GeneralTF 2.0
+    MultiSpeakerBRIR 0.3
+    SimpleFreeFieldHRSOS 1.0
+    SimpleFreeFieldHRTF 2.0
+    SimpleFreeFieldSOS 1.0
+    SimpleHeadphoneIR 1.0
+
+SourceView_Units  (14)
+    FreeFieldHRIR 1.0
+    FreeFieldHRTF 1.0
+    GeneralFIR-E 2.0
+    GeneralFIRE 1.0
+    GeneralFIR 1.0
+    GeneralFIR 2.0
+    GeneralTF-E 1.0
+    GeneralTF 1.0
+    GeneralTF 2.0
+    MultiSpeakerBRIR 0.3
+    SimpleFreeFieldHRSOS 1.0
+    SimpleFreeFieldHRTF 2.0
+    SimpleFreeFieldSOS 1.0
+    SimpleHeadphoneIR 1.0
+
+SourceView_Type  (14)
+    FreeFieldHRIR 1.0
+    FreeFieldHRTF 1.0
+    GeneralFIR-E 2.0
+    GeneralFIRE 1.0
+    GeneralFIR 1.0
+    GeneralFIR 2.0
+    GeneralTF-E 1.0
+    GeneralTF 1.0
+    GeneralTF 2.0
+    MultiSpeakerBRIR 0.3
+    SimpleFreeFieldHRSOS 1.0
+    SimpleFreeFieldHRTF 2.0
+    SimpleFreeFieldSOS 1.0
+    SimpleHeadphoneIR 1.0
+
+SourceView  (14)
+    FreeFieldHRIR 1.0
+    FreeFieldHRTF 1.0
+    GeneralFIR-E 2.0
+    GeneralFIRE 1.0
+    GeneralFIR 1.0
+    GeneralFIR 2.0
+    GeneralTF-E 1.0
+    GeneralTF 1.0
+    GeneralTF 2.0
+    MultiSpeakerBRIR 0.3
+    SimpleFreeFieldHRSOS 1.0
+    SimpleFreeFieldHRTF 2.0
+    SimpleFreeFieldSOS 1.0
+    SimpleHeadphoneIR 1.0
+
+GLOBAL_RoomDescription  (15)
+    FreeFieldDirectivityTF 1.0
+    FreeFieldHRIR 1.0
+    FreeFieldHRTF 1.0
+    GeneralFIR-E 2.0
+    GeneralFIRE 1.0
+    GeneralFIR 1.0
+    GeneralFIR 2.0
+    GeneralTF-E 1.0
+    GeneralTF 1.0
+    GeneralTF 2.0
+    SimpleFreeFieldHRIR 1.0
+    SimpleFreeFieldHRSOS 1.0
+    SimpleFreeFieldHRTF 2.0
+    SimpleFreeFieldSOS 1.0
+    SimpleHeadphoneIR 1.0
+
+GLOBAL_SourceDescription  (16)
+    FreeFieldDirectivityTF 1.0
+    FreeFieldHRIR 1.0
+    FreeFieldHRTF 1.0
+    GeneralFIR-E 2.0
+    GeneralFIRE 1.0
+    GeneralFIR 1.0
+    GeneralFIR 2.0
+    GeneralTF-E 1.0
+    GeneralTF 1.0
+    GeneralTF 2.0
+    MultiSpeakerBRIR 0.3
+    SimpleFreeFieldHRIR 1.0
+    SimpleFreeFieldHRSOS 1.0
+    SimpleFreeFieldHRTF 2.0
+    SimpleFreeFieldSOS 1.0
+    SingleRoomDRIR 0.3
+
+GLOBAL_ReceiverDescription  (16)
+    FreeFieldDirectivityTF 1.0
+    FreeFieldHRIR 1.0
+    FreeFieldHRTF 1.0
+    GeneralFIR-E 2.0
+    GeneralFIRE 1.0
+    GeneralFIR 1.0
+    GeneralFIR 2.0
+    GeneralTF-E 1.0
+    GeneralTF 1.0
+    GeneralTF 2.0
+    MultiSpeakerBRIR 0.3
+    SimpleFreeFieldHRIR 1.0
+    SimpleFreeFieldHRSOS 1.0
+    SimpleFreeFieldHRTF 2.0
+    SimpleFreeFieldSOS 1.0
+    SingleRoomDRIR 0.3
+
+EmitterView_Units  (16)
+    FreeFieldDirectivityTF 1.0
+    FreeFieldHRIR 1.0
+    FreeFieldHRTF 1.0
+    GeneralFIR-E 2.0
+    GeneralFIRE 1.0
+    GeneralFIR 1.0
+    GeneralFIR 2.0
+    GeneralTF-E 1.0
+    GeneralTF 1.0
+    GeneralTF 2.0
+    SimpleFreeFieldHRIR 1.0
+    SimpleFreeFieldHRSOS 1.0
+    SimpleFreeFieldHRTF 2.0
+    SimpleFreeFieldSOS 1.0
+    SimpleHeadphoneIR 1.0
+    SingleRoomDRIR 0.3
+
+GLOBAL_EmitterDescription  (16)
+    FreeFieldDirectivityTF 1.0
+    FreeFieldHRIR 1.0
+    FreeFieldHRTF 1.0
+    GeneralFIR-E 2.0
+    GeneralFIRE 1.0
+    GeneralFIR 1.0
+    GeneralFIR 2.0
+    GeneralTF-E 1.0
+    GeneralTF 1.0
+    GeneralTF 2.0
+    MultiSpeakerBRIR 0.3
+    SimpleFreeFieldHRIR 1.0
+    SimpleFreeFieldHRSOS 1.0
+    SimpleFreeFieldHRTF 2.0
+    SimpleFreeFieldSOS 1.0
+    SingleRoomDRIR 0.3
+
+EmitterView_Type  (16)
+    FreeFieldDirectivityTF 1.0
+    FreeFieldHRIR 1.0
+    FreeFieldHRTF 1.0
+    GeneralFIR-E 2.0
+    GeneralFIRE 1.0
+    GeneralFIR 1.0
+    GeneralFIR 2.0
+    GeneralTF-E 1.0
+    GeneralTF 1.0
+    GeneralTF 2.0
+    SimpleFreeFieldHRIR 1.0
+    SimpleFreeFieldHRSOS 1.0
+    SimpleFreeFieldHRTF 2.0
+    SimpleFreeFieldSOS 1.0
+    SimpleHeadphoneIR 1.0
+    SingleRoomDRIR 0.3
+
+EmitterView  (16)
+    FreeFieldDirectivityTF 1.0
+    FreeFieldHRIR 1.0
+    FreeFieldHRTF 1.0
+    GeneralFIR-E 2.0
+    GeneralFIRE 1.0
+    GeneralFIR 1.0
+    GeneralFIR 2.0
+    GeneralTF-E 1.0
+    GeneralTF 1.0
+    GeneralTF 2.0
+    SimpleFreeFieldHRIR 1.0
+    SimpleFreeFieldHRSOS 1.0
+    SimpleFreeFieldHRTF 2.0
+    SimpleFreeFieldSOS 1.0
+    SimpleHeadphoneIR 1.0
+    SingleRoomDRIR 0.3
+
+GLOBAL_ListenerDescription  (16)
+    FreeFieldDirectivityTF 1.0
+    FreeFieldHRIR 1.0
+    FreeFieldHRTF 1.0
+    GeneralFIR-E 2.0
+    GeneralFIRE 1.0
+    GeneralFIR 1.0
+    GeneralFIR 2.0
+    GeneralTF-E 1.0
+    GeneralTF 1.0
+    GeneralTF 2.0
+    MultiSpeakerBRIR 0.3
+    SimpleFreeFieldHRIR 1.0
+    SimpleFreeFieldHRSOS 1.0
+    SimpleFreeFieldHRTF 2.0
+    SimpleFreeFieldSOS 1.0
+    SingleRoomDRIR 0.3
+
+EmitterUp  (16)
+    FreeFieldDirectivityTF 1.0
+    FreeFieldHRIR 1.0
+    FreeFieldHRTF 1.0
+    GeneralFIR-E 2.0
+    GeneralFIRE 1.0
+    GeneralFIR 1.0
+    GeneralFIR 2.0
+    GeneralTF-E 1.0
+    GeneralTF 1.0
+    GeneralTF 2.0
+    SimpleFreeFieldHRIR 1.0
+    SimpleFreeFieldHRSOS 1.0
+    SimpleFreeFieldHRTF 2.0
+    SimpleFreeFieldSOS 1.0
+    SimpleHeadphoneIR 1.0
+    SingleRoomDRIR 0.3
+
+RoomCorners  (17)
+    FreeFieldDirectivityTF 1.0
+    FreeFieldHRIR 1.0
+    FreeFieldHRTF 1.0
+    GeneralFIR-E 2.0
+    GeneralFIRE 1.0
+    GeneralFIR 1.0
+    GeneralFIR 2.0
+    GeneralTF-E 1.0
+    GeneralTF 1.0
+    GeneralTF 2.0
+    MultiSpeakerBRIR 0.3
+    SimpleFreeFieldHRIR 1.0
+    SimpleFreeFieldHRSOS 1.0
+    SimpleFreeFieldHRTF 2.0
+    SimpleFreeFieldSOS 1.0
+    SimpleHeadphoneIR 1.0
+    SingleRoomDRIR 0.3
+
+GLOBAL_EmitterShortName  (17)
+    FreeFieldDirectivityTF 1.0
+    FreeFieldHRIR 1.0
+    FreeFieldHRTF 1.0
+    GeneralFIR-E 2.0
+    GeneralFIRE 1.0
+    GeneralFIR 1.0
+    GeneralFIR 2.0
+    GeneralTF-E 1.0
+    GeneralTF 1.0
+    GeneralTF 2.0
+    MultiSpeakerBRIR 0.3
+    SimpleFreeFieldHRIR 1.0
+    SimpleFreeFieldHRSOS 1.0
+    SimpleFreeFieldHRTF 2.0
+    SimpleFreeFieldSOS 1.0
+    SimpleHeadphoneIR 1.0
+    SingleRoomDRIR 0.3
+
+RoomCornerA  (17)
+    FreeFieldDirectivityTF 1.0
+    FreeFieldHRIR 1.0
+    FreeFieldHRTF 1.0
+    GeneralFIR-E 2.0
+    GeneralFIRE 1.0
+    GeneralFIR 1.0
+    GeneralFIR 2.0
+    GeneralTF-E 1.0
+    GeneralTF 1.0
+    GeneralTF 2.0
+    MultiSpeakerBRIR 0.3
+    SimpleFreeFieldHRIR 1.0
+    SimpleFreeFieldHRSOS 1.0
+    SimpleFreeFieldHRTF 2.0
+    SimpleFreeFieldSOS 1.0
+    SimpleHeadphoneIR 1.0
+    SingleRoomDRIR 0.3
+
+ReceiverView  (17)
+    FreeFieldDirectivityTF 1.0
+    FreeFieldHRIR 1.0
+    FreeFieldHRTF 1.0
+    GeneralFIR-E 2.0
+    GeneralFIRE 1.0
+    GeneralFIR 1.0
+    GeneralFIR 2.0
+    GeneralTF-E 1.0
+    GeneralTF 1.0
+    GeneralTF 2.0
+    MultiSpeakerBRIR 0.3
+    SimpleFreeFieldHRIR 1.0
+    SimpleFreeFieldHRSOS 1.0
+    SimpleFreeFieldHRTF 2.0
+    SimpleFreeFieldSOS 1.0
+    SimpleHeadphoneIR 1.0
+    SingleRoomDRIR 0.3
+
+ReceiverView_Type  (17)
+    FreeFieldDirectivityTF 1.0
+    FreeFieldHRIR 1.0
+    FreeFieldHRTF 1.0
+    GeneralFIR-E 2.0
+    GeneralFIRE 1.0
+    GeneralFIR 1.0
+    GeneralFIR 2.0
+    GeneralTF-E 1.0
+    GeneralTF 1.0
+    GeneralTF 2.0
+    MultiSpeakerBRIR 0.3
+    SimpleFreeFieldHRIR 1.0
+    SimpleFreeFieldHRSOS 1.0
+    SimpleFreeFieldHRTF 2.0
+    SimpleFreeFieldSOS 1.0
+    SimpleHeadphoneIR 1.0
+    SingleRoomDRIR 0.3
+
+ReceiverUp  (17)
+    FreeFieldDirectivityTF 1.0
+    FreeFieldHRIR 1.0
+    FreeFieldHRTF 1.0
+    GeneralFIR-E 2.0
+    GeneralFIRE 1.0
+    GeneralFIR 1.0
+    GeneralFIR 2.0
+    GeneralTF-E 1.0
+    GeneralTF 1.0
+    GeneralTF 2.0
+    MultiSpeakerBRIR 0.3
+    SimpleFreeFieldHRIR 1.0
+    SimpleFreeFieldHRSOS 1.0
+    SimpleFreeFieldHRTF 2.0
+    SimpleFreeFieldSOS 1.0
+    SimpleHeadphoneIR 1.0
+    SingleRoomDRIR 0.3
+
+GLOBAL_ReceiverShortName  (17)
+    FreeFieldDirectivityTF 1.0
+    FreeFieldHRIR 1.0
+    FreeFieldHRTF 1.0
+    GeneralFIR-E 2.0
+    GeneralFIRE 1.0
+    GeneralFIR 1.0
+    GeneralFIR 2.0
+    GeneralTF-E 1.0
+    GeneralTF 1.0
+    GeneralTF 2.0
+    MultiSpeakerBRIR 0.3
+    SimpleFreeFieldHRIR 1.0
+    SimpleFreeFieldHRSOS 1.0
+    SimpleFreeFieldHRTF 2.0
+    SimpleFreeFieldSOS 1.0
+    SimpleHeadphoneIR 1.0
+    SingleRoomDRIR 0.3
+
+GLOBAL_SourceShortName  (17)
+    FreeFieldDirectivityTF 1.0
+    FreeFieldHRIR 1.0
+    FreeFieldHRTF 1.0
+    GeneralFIR-E 2.0
+    GeneralFIRE 1.0
+    GeneralFIR 1.0
+    GeneralFIR 2.0
+    GeneralTF-E 1.0
+    GeneralTF 1.0
+    GeneralTF 2.0
+    MultiSpeakerBRIR 0.3
+    SimpleFreeFieldHRIR 1.0
+    SimpleFreeFieldHRSOS 1.0
+    SimpleFreeFieldHRTF 2.0
+    SimpleFreeFieldSOS 1.0
+    SimpleHeadphoneIR 1.0
+    SingleRoomDRIR 0.3
+
+RoomCornerB  (17)
+    FreeFieldDirectivityTF 1.0
+    FreeFieldHRIR 1.0
+    FreeFieldHRTF 1.0
+    GeneralFIR-E 2.0
+    GeneralFIRE 1.0
+    GeneralFIR 1.0
+    GeneralFIR 2.0
+    GeneralTF-E 1.0
+    GeneralTF 1.0
+    GeneralTF 2.0
+    MultiSpeakerBRIR 0.3
+    SimpleFreeFieldHRIR 1.0
+    SimpleFreeFieldHRSOS 1.0
+    SimpleFreeFieldHRTF 2.0
+    SimpleFreeFieldSOS 1.0
+    SimpleHeadphoneIR 1.0
+    SingleRoomDRIR 0.3
+
+ReceiverView_Units  (17)
+    FreeFieldDirectivityTF 1.0
+    FreeFieldHRIR 1.0
+    FreeFieldHRTF 1.0
+    GeneralFIR-E 2.0
+    GeneralFIRE 1.0
+    GeneralFIR 1.0
+    GeneralFIR 2.0
+    GeneralTF-E 1.0
+    GeneralTF 1.0
+    GeneralTF 2.0
+    MultiSpeakerBRIR 0.3
+    SimpleFreeFieldHRIR 1.0
+    SimpleFreeFieldHRSOS 1.0
+    SimpleFreeFieldHRTF 2.0
+    SimpleFreeFieldSOS 1.0
+    SimpleHeadphoneIR 1.0
+    SingleRoomDRIR 0.3
+
+RoomCorners_Units  (17)
+    FreeFieldDirectivityTF 1.0
+    FreeFieldHRIR 1.0
+    FreeFieldHRTF 1.0
+    GeneralFIR-E 2.0
+    GeneralFIRE 1.0
+    GeneralFIR 1.0
+    GeneralFIR 2.0
+    GeneralTF-E 1.0
+    GeneralTF 1.0
+    GeneralTF 2.0
+    MultiSpeakerBRIR 0.3
+    SimpleFreeFieldHRIR 1.0
+    SimpleFreeFieldHRSOS 1.0
+    SimpleFreeFieldHRTF 2.0
+    SimpleFreeFieldSOS 1.0
+    SimpleHeadphoneIR 1.0
+    SingleRoomDRIR 0.3
+
+EmitterDescription  (17)
+    FreeFieldHRIR 1.0
+    FreeFieldHRTF 1.0
+    GeneralFIR-E 2.0
+    GeneralFIRE 1.0
+    GeneralFIR 1.0
+    GeneralFIR 2.0
+    GeneralTF-E 1.0
+    GeneralTF 1.0
+    GeneralTF 2.0
+    MultiSpeakerBRIR 0.3
+    SimpleFreeFieldHRIR 1.0
+    SimpleFreeFieldHRSOS 1.0
+    SimpleFreeFieldHRTF 2.0
+    SimpleFreeFieldSOS 1.0
+    SingleRoomDRIR 0.3
+    SingleRoomMIMOSRIR 1.0
+    SingleRoomSRIR 1.0
+
+Data_SOS  (17)
+    FreeFieldDirectivityTF 1.0
+    FreeFieldHRIR 1.0
+    FreeFieldHRTF 1.0
+    GeneralFIR-E 2.0
+    GeneralFIRE 1.0
+    GeneralFIR 1.0
+    GeneralFIR 2.0
+    GeneralTF-E 1.0
+    GeneralTF 1.0
+    GeneralTF 2.0
+    MultiSpeakerBRIR 0.3
+    SimpleFreeFieldHRIR 1.0
+    SimpleFreeFieldHRTF 2.0
+    SimpleHeadphoneIR 1.0
+    SingleRoomDRIR 0.3
+    SingleRoomMIMOSRIR 1.0
+    SingleRoomSRIR 1.0
+
+GLOBAL_SourceManufacturer  (17)
+    FreeFieldHRIR 1.0
+    FreeFieldHRTF 1.0
+    GeneralFIR-E 2.0
+    GeneralFIRE 1.0
+    GeneralFIR 1.0
+    GeneralFIR 2.0
+    GeneralTF-E 1.0
+    GeneralTF 1.0
+    GeneralTF 2.0
+    MultiSpeakerBRIR 0.3
+    SimpleFreeFieldHRIR 1.0
+    SimpleFreeFieldHRSOS 1.0
+    SimpleFreeFieldHRTF 2.0
+    SimpleFreeFieldSOS 1.0
+    SingleRoomDRIR 0.3
+    SingleRoomMIMOSRIR 1.0
+    SingleRoomSRIR 1.0
+
+RoomCorners_Type  (17)
+    FreeFieldDirectivityTF 1.0
+    FreeFieldHRIR 1.0
+    FreeFieldHRTF 1.0
+    GeneralFIR-E 2.0
+    GeneralFIRE 1.0
+    GeneralFIR 1.0
+    GeneralFIR 2.0
+    GeneralTF-E 1.0
+    GeneralTF 1.0
+    GeneralTF 2.0
+    MultiSpeakerBRIR 0.3
+    SimpleFreeFieldHRIR 1.0
+    SimpleFreeFieldHRSOS 1.0
+    SimpleFreeFieldHRTF 2.0
+    SimpleFreeFieldSOS 1.0
+    SimpleHeadphoneIR 1.0
+    SingleRoomDRIR 0.3
+
+GLOBAL_Musician  (18)
+    FreeFieldHRIR 1.0
+    FreeFieldHRTF 1.0
+    GeneralFIR-E 2.0
+    GeneralFIRE 1.0
+    GeneralFIR 1.0
+    GeneralFIR 2.0
+    GeneralTF-E 1.0
+    GeneralTF 1.0
+    GeneralTF 2.0
+    MultiSpeakerBRIR 0.3
+    SimpleFreeFieldHRIR 1.0
+    SimpleFreeFieldHRSOS 1.0
+    SimpleFreeFieldHRTF 2.0
+    SimpleFreeFieldSOS 1.0
+    SimpleHeadphoneIR 1.0
+    SingleRoomDRIR 0.3
+    SingleRoomMIMOSRIR 1.0
+    SingleRoomSRIR 1.0
+
+GLOBAL_Description  (18)
+    FreeFieldHRIR 1.0
+    FreeFieldHRTF 1.0
+    GeneralFIR-E 2.0
+    GeneralFIRE 1.0
+    GeneralFIR 1.0
+    GeneralFIR 2.0
+    GeneralTF-E 1.0
+    GeneralTF 1.0
+    GeneralTF 2.0
+    MultiSpeakerBRIR 0.3
+    SimpleFreeFieldHRIR 1.0
+    SimpleFreeFieldHRSOS 1.0
+    SimpleFreeFieldHRTF 2.0
+    SimpleFreeFieldSOS 1.0
+    SimpleHeadphoneIR 1.0
+    SingleRoomDRIR 0.3
+    SingleRoomMIMOSRIR 1.0
+    SingleRoomSRIR 1.0
+
+GLOBAL_SourceType  (18)
+    FreeFieldHRIR 1.0
+    FreeFieldHRTF 1.0
+    GeneralFIR-E 2.0
+    GeneralFIRE 1.0
+    GeneralFIR 1.0
+    GeneralFIR 2.0
+    GeneralTF-E 1.0
+    GeneralTF 1.0
+    GeneralTF 2.0
+    MultiSpeakerBRIR 0.3
+    SimpleFreeFieldHRIR 1.0
+    SimpleFreeFieldHRSOS 1.0
+    SimpleFreeFieldHRTF 2.0
+    SimpleFreeFieldSOS 1.0
+    SimpleHeadphoneIR 1.0
+    SingleRoomDRIR 0.3
+    SingleRoomMIMOSRIR 1.0
+    SingleRoomSRIR 1.0
+
+SourcePosition_Reference  (18)
+    FreeFieldHRIR 1.0
+    FreeFieldHRTF 1.0
+    GeneralFIR-E 2.0
+    GeneralFIRE 1.0
+    GeneralFIR 1.0
+    GeneralFIR 2.0
+    GeneralTF-E 1.0
+    GeneralTF 1.0
+    GeneralTF 2.0
+    MultiSpeakerBRIR 0.3
+    SimpleFreeFieldHRIR 1.0
+    SimpleFreeFieldHRSOS 1.0
+    SimpleFreeFieldHRTF 2.0
+    SimpleFreeFieldSOS 1.0
+    SimpleHeadphoneIR 1.0
+    SingleRoomDRIR 0.3
+    SingleRoomMIMOSRIR 1.0
+    SingleRoomSRIR 1.0
+
+SourceView_Reference  (18)
+    FreeFieldHRIR 1.0
+    FreeFieldHRTF 1.0
+    GeneralFIR-E 2.0
+    GeneralFIRE 1.0
+    GeneralFIR 1.0
+    GeneralFIR 2.0
+    GeneralTF-E 1.0
+    GeneralTF 1.0
+    GeneralTF 2.0
+    MultiSpeakerBRIR 0.3
+    SimpleFreeFieldHRIR 1.0
+    SimpleFreeFieldHRSOS 1.0
+    SimpleFreeFieldHRTF 2.0
+    SimpleFreeFieldSOS 1.0
+    SimpleHeadphoneIR 1.0
+    SingleRoomDRIR 0.3
+    SingleRoomMIMOSRIR 1.0
+    SingleRoomSRIR 1.0
+
+GLOBAL_SourceURI  (18)
+    FreeFieldDirectivityTF 1.0
+    FreeFieldHRIR 1.0
+    FreeFieldHRTF 1.0
+    GeneralFIR-E 2.0
+    GeneralFIRE 1.0
+    GeneralFIR 1.0
+    GeneralFIR 2.0
+    GeneralTF-E 1.0
+    GeneralTF 1.0
+    GeneralTF 2.0
+    MultiSpeakerBRIR 0.3
+    SimpleFreeFieldHRIR 1.0
+    SimpleFreeFieldHRSOS 1.0
+    SimpleFreeFieldHRTF 2.0
+    SimpleFreeFieldSOS 1.0
+    SingleRoomDRIR 0.3
+    SingleRoomMIMOSRIR 1.0
+    SingleRoomSRIR 1.0
+
+MIDINote  (18)
+    FreeFieldHRIR 1.0
+    FreeFieldHRTF 1.0
+    GeneralFIR-E 2.0
+    GeneralFIRE 1.0
+    GeneralFIR 1.0
+    GeneralFIR 2.0
+    GeneralTF-E 1.0
+    GeneralTF 1.0
+    GeneralTF 2.0
+    MultiSpeakerBRIR 0.3
+    SimpleFreeFieldHRIR 1.0
+    SimpleFreeFieldHRSOS 1.0
+    SimpleFreeFieldHRTF 2.0
+    SimpleFreeFieldSOS 1.0
+    SimpleHeadphoneIR 1.0
+    SingleRoomDRIR 0.3
+    SingleRoomMIMOSRIR 1.0
+    SingleRoomSRIR 1.0
+
+Description  (18)
+    FreeFieldHRIR 1.0
+    FreeFieldHRTF 1.0
+    GeneralFIR-E 2.0
+    GeneralFIRE 1.0
+    GeneralFIR 1.0
+    GeneralFIR 2.0
+    GeneralTF-E 1.0
+    GeneralTF 1.0
+    GeneralTF 2.0
+    MultiSpeakerBRIR 0.3
+    SimpleFreeFieldHRIR 1.0
+    SimpleFreeFieldHRSOS 1.0
+    SimpleFreeFieldHRTF 2.0
+    SimpleFreeFieldSOS 1.0
+    SimpleHeadphoneIR 1.0
+    SingleRoomDRIR 0.3
+    SingleRoomMIMOSRIR 1.0
+    SingleRoomSRIR 1.0
+
+MeasurementDate  (18)
+    FreeFieldDirectivityTF 1.0
+    FreeFieldHRIR 1.0
+    FreeFieldHRTF 1.0
+    GeneralFIR-E 2.0
+    GeneralFIRE 1.0
+    GeneralFIR 1.0
+    GeneralFIR 2.0
+    GeneralTF-E 1.0
+    GeneralTF 1.0
+    GeneralTF 2.0
+    MultiSpeakerBRIR 0.3
+    SimpleFreeFieldHRIR 1.0
+    SimpleFreeFieldHRSOS 1.0
+    SimpleFreeFieldHRTF 2.0
+    SimpleFreeFieldSOS 1.0
+    SingleRoomDRIR 0.3
+    SingleRoomMIMOSRIR 1.0
+    SingleRoomSRIR 1.0
+
+ReceiverDescription  (18)
+    FreeFieldDirectivityTF 1.0
+    FreeFieldHRIR 1.0
+    FreeFieldHRTF 1.0
+    GeneralFIR-E 2.0
+    GeneralFIRE 1.0
+    GeneralFIR 1.0
+    GeneralFIR 2.0
+    GeneralTF-E 1.0
+    GeneralTF 1.0
+    GeneralTF 2.0
+    MultiSpeakerBRIR 0.3
+    SimpleFreeFieldHRIR 1.0
+    SimpleFreeFieldHRSOS 1.0
+    SimpleFreeFieldHRTF 2.0
+    SimpleFreeFieldSOS 1.0
+    SingleRoomDRIR 0.3
+    SingleRoomMIMOSRIR 1.0
+    SingleRoomSRIR 1.0
+
+SourceModel  (18)
+    FreeFieldDirectivityTF 1.0
+    FreeFieldHRIR 1.0
+    FreeFieldHRTF 1.0
+    GeneralFIR-E 2.0
+    GeneralFIRE 1.0
+    GeneralFIR 1.0
+    GeneralFIR 2.0
+    GeneralTF-E 1.0
+    GeneralTF 1.0
+    GeneralTF 2.0
+    MultiSpeakerBRIR 0.3
+    SimpleFreeFieldHRIR 1.0
+    SimpleFreeFieldHRSOS 1.0
+    SimpleFreeFieldHRTF 2.0
+    SimpleFreeFieldSOS 1.0
+    SingleRoomDRIR 0.3
+    SingleRoomMIMOSRIR 1.0
+    SingleRoomSRIR 1.0
+
+SourceManufacturer  (18)
+    FreeFieldDirectivityTF 1.0
+    FreeFieldHRIR 1.0
+    FreeFieldHRTF 1.0
+    GeneralFIR-E 2.0
+    GeneralFIRE 1.0
+    GeneralFIR 1.0
+    GeneralFIR 2.0
+    GeneralTF-E 1.0
+    GeneralTF 1.0
+    GeneralTF 2.0
+    MultiSpeakerBRIR 0.3
+    SimpleFreeFieldHRIR 1.0
+    SimpleFreeFieldHRSOS 1.0
+    SimpleFreeFieldHRTF 2.0
+    SimpleFreeFieldSOS 1.0
+    SingleRoomDRIR 0.3
+    SingleRoomMIMOSRIR 1.0
+    SingleRoomSRIR 1.0
+
+SourceTuningFrequency  (18)
+    FreeFieldHRIR 1.0
+    FreeFieldHRTF 1.0
+    GeneralFIR-E 2.0
+    GeneralFIRE 1.0
+    GeneralFIR 1.0
+    GeneralFIR 2.0
+    GeneralTF-E 1.0
+    GeneralTF 1.0
+    GeneralTF 2.0
+    MultiSpeakerBRIR 0.3
+    SimpleFreeFieldHRIR 1.0
+    SimpleFreeFieldHRSOS 1.0
+    SimpleFreeFieldHRTF 2.0
+    SimpleFreeFieldSOS 1.0
+    SimpleHeadphoneIR 1.0
+    SingleRoomDRIR 0.3
+    SingleRoomMIMOSRIR 1.0
+    SingleRoomSRIR 1.0
+
+GLOBAL_SourceModel  (18)
+    FreeFieldDirectivityTF 1.0
+    FreeFieldHRIR 1.0
+    FreeFieldHRTF 1.0
+    GeneralFIR-E 2.0
+    GeneralFIRE 1.0
+    GeneralFIR 1.0
+    GeneralFIR 2.0
+    GeneralTF-E 1.0
+    GeneralTF 1.0
+    GeneralTF 2.0
+    MultiSpeakerBRIR 0.3
+    SimpleFreeFieldHRIR 1.0
+    SimpleFreeFieldHRSOS 1.0
+    SimpleFreeFieldHRTF 2.0
+    SimpleFreeFieldSOS 1.0
+    SingleRoomDRIR 0.3
+    SingleRoomMIMOSRIR 1.0
+    SingleRoomSRIR 1.0
+
+SourceUp_Reference  (18)
+    FreeFieldHRIR 1.0
+    FreeFieldHRTF 1.0
+    GeneralFIR-E 2.0
+    GeneralFIRE 1.0
+    GeneralFIR 1.0
+    GeneralFIR 2.0
+    GeneralTF-E 1.0
+    GeneralTF 1.0
+    GeneralTF 2.0
+    MultiSpeakerBRIR 0.3
+    SimpleFreeFieldHRIR 1.0
+    SimpleFreeFieldHRSOS 1.0
+    SimpleFreeFieldHRTF 2.0
+    SimpleFreeFieldSOS 1.0
+    SimpleHeadphoneIR 1.0
+    SingleRoomDRIR 0.3
+    SingleRoomMIMOSRIR 1.0
+    SingleRoomSRIR 1.0
+

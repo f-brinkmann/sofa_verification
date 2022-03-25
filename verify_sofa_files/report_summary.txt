@@ -1,0 +1,17 @@
+Tested 99 files from 35 databases on March 25, 2022 using sofar version 0.3.1
+
+Correct files:           83
+Incorrect files:         15
+Reading errors (caught): 22
+Reading errors (fatal):  1
+
+The following 9 conventions were contained in the sample:
+FreeFieldDirectivityTF: 5
+GeneralFIRE: 2
+GeneralFIR: 4
+GeneralTF: 1
+MultiSpeakerBRIR: 8
+SimpleFreeFieldHRIR: 65
+SimpleHeadphoneIR: 7
+SingleRoomDRIR: 4
+SimpleFreeFieldSOS: 2

@@ -1,0 +1,71 @@
+The following files could not be read as they were
+
+examples-SimpleFreeFieldHRIR.sofa (SimpleFreeFieldHRIR)
+Version 0.4 does not exist for convention SimpleFreeFieldHRIR. Try to access the data with version='latest'
+
+examples-SimpleHeadphoneIR.sofa (SimpleHeadphoneIR)
+Version 0.1 does not exist for convention SimpleHeadphoneIR. Try to access the data with version='latest'
+
+sofa_api_mo_test-ARI_NH2_hrtf_M_dtf 256.sofa (SimpleFreeFieldHRIR)
+Version 0.4 does not exist for convention SimpleFreeFieldHRIR. Try to access the data with version='latest'
+
+sofa_api_mo_test-ARI_NH4_4_freqs.sofa (SimpleFreeFieldTF)
+Convention 'SimpleFreeFieldTF' does not exist
+
+sofa_api_mo_test-ARI_NH4_hrtf_M_dtf 256.sofa (SimpleFreeFieldHRIR)
+Version 0.4 does not exist for convention SimpleFreeFieldHRIR. Try to access the data with version='latest'
+
+sofa_api_mo_test-BTdei-hp_H010-subj_S115-Set02-COMPENSATED.sofa (SimpleHeadphoneIR)
+Version 0.1 does not exist for convention SimpleHeadphoneIR. Try to access the data with version='latest'
+
+sofa_api_mo_test-CIPIC_subject_003_hrir_final.sofa (SimpleFreeFieldHRIR)
+Version 0.4 does not exist for convention SimpleFreeFieldHRIR. Try to access the data with version='latest'
+
+sofa_api_mo_test-FHK_HRIR_L2354.sofa (SimpleFreeFieldHRIR)
+Version 0.4 does not exist for convention SimpleFreeFieldHRIR. Try to access the data with version='latest'
+
+sofa_api_mo_test-LISTEN_1002_IRC_1002_C_HRIR.sofa (SimpleFreeFieldHRIR)
+Version 0.4 does not exist for convention SimpleFreeFieldHRIR. Try to access the data with version='latest'
+
+sofa_api_mo_test-MIT_KEMAR_large_pinna.sofa (SimpleFreeFieldHRIR)
+Version 0.4 does not exist for convention SimpleFreeFieldHRIR. Try to access the data with version='latest'
+
+sofa_api_mo_test-MIT_KEMAR_normal_pinna.sofa (SimpleFreeFieldHRIR)
+Version 0.4 does not exist for convention SimpleFreeFieldHRIR. Try to access the data with version='latest'
+
+sofa_api_mo_test-Oldenburg_OfficeII.sofa (SingleRoomDRIR)
+Version 0.2 does not exist for convention SingleRoomDRIR. Try to access the data with version='latest'
+
+sofa_api_mo_test-Pulse.sofa (SimpleFreeFieldHRIR)
+Version 0.4 does not exist for convention SimpleFreeFieldHRIR. Try to access the data with version='latest'
+
+sofa_api_mo_test-TU-Berlin_QU_KEMAR_anechoic_radius_0.5_1_2_3_m.sofa (SimpleFreeFieldHRIR)
+Version 0.4 does not exist for convention SimpleFreeFieldHRIR. Try to access the data with version='latest'
+
+sofa_api_mo_test-TU-Berlin_QU_KEMAR_anechoic_radius_0.5m.sofa (SimpleFreeFieldHRIR)
+Version 0.4 does not exist for convention SimpleFreeFieldHRIR. Try to access the data with version='latest'
+
+sofa_api_mo_test-TU-Berlin_QU_KEMAR_anechoic_radius_1m.sofa (SimpleFreeFieldHRIR)
+Version 0.4 does not exist for convention SimpleFreeFieldHRIR. Try to access the data with version='latest'
+
+sofa_api_mo_test-TU-Berlin_QU_KEMAR_anechoic_radius_2m.sofa (SimpleFreeFieldHRIR)
+Version 0.4 does not exist for convention SimpleFreeFieldHRIR. Try to access the data with version='latest'
+
+sofa_api_mo_test-TU-Berlin_QU_KEMAR_anechoic_radius_3m.sofa (SimpleFreeFieldHRIR)
+Version 0.4 does not exist for convention SimpleFreeFieldHRIR. Try to access the data with version='latest'
+
+sofa_api_mo_test-hpir_nh5.sofa (SimpleHeadphoneIR)
+Version 0.1 does not exist for convention SimpleHeadphoneIR. Try to access the data with version='latest'
+
+headphones-ari-hpir_nh2.sofa (SimpleHeadphoneIR)
+Version 0.2 does not exist for convention SimpleHeadphoneIR. Try to access the data with version='latest'
+
+headphones-btdei-H010-BTDEI-hp_H010-subj_S115-Set02_BEC-COMPENSATED.sofa (SimpleHeadphoneIR)
+Version 0.2 does not exist for convention SimpleHeadphoneIR. Try to access the data with version='latest'
+
+headphones-btdei-H010-BTDEI-hp_H010-subj_S115-Set02_BEC-RAW.sofa (SimpleHeadphoneIR)
+Version 0.2 does not exist for convention SimpleHeadphoneIR. Try to access the data with version='latest'
+
+headphones-tu-berlin-AKG K141 MKII.sofa (SimpleHeadphoneIR)
+Version 0.2 does not exist for convention SimpleHeadphoneIR. Try to access the data with version='latest'
+

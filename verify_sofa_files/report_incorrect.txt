@@ -1,0 +1,70 @@
+The following files violate the SOFA standard AES69
+
+examples-FreeFieldDirectivityTF.sofa (FreeFieldDirectivityTF)
+Detected violations of the SOFA convention:
+N_Units is Hertz but must contain only lower case letters when writing SOFA files to disk.
+
+examples-GeneralFIR.sofa (GeneralFIR)
+Detected violations of the SOFA convention:
+Data_SamplingRate_Units is Hertz but must contain only lower case letters when writing SOFA files to disk.
+
+examples-SimpleHeadphoneIR.sofa (SimpleHeadphoneIR)
+Detected violations of the SOFA convention:
+Data_SamplingRate_Units is Hertz but must contain only lower case letters when writing SOFA files to disk.
+
+sofa_api_mo_test-hpir_nh5.sofa (SimpleHeadphoneIR)
+Detected violations of the SOFA convention:
+Data_SamplingRate_Units is Hertz but must contain only lower case letters when writing SOFA files to disk.
+
+database-3d3a-Subject1_BIRs.sofa (SimpleFreeFieldHRIR)
+Detected violations of the SOFA convention:
+- Dimension E is of size 9 but must be 1 if GLOBAL_SOFAConventions is SimpleFreeFieldHRIR
+
+
+database-3d3a-Subject1_HRIRs.sofa (SimpleFreeFieldHRIR)
+Detected violations of the SOFA convention:
+- Dimension E is of size 9 but must be 1 if GLOBAL_SOFAConventions is SimpleFreeFieldHRIR
+
+
+database-3d3a-Subject1_HRIRs_dfeq.sofa (SimpleFreeFieldHRIR)
+Detected violations of the SOFA convention:
+- Dimension E is of size 9 but must be 1 if GLOBAL_SOFAConventions is SimpleFreeFieldHRIR
+
+
+database-3d3a-Subject1_HRIRs_lfc.sofa (SimpleFreeFieldHRIR)
+Detected violations of the SOFA convention:
+- Dimension E is of size 9 but must be 1 if GLOBAL_SOFAConventions is SimpleFreeFieldHRIR
+
+
+database-tu-berlin (directivity)-ITA_Dodecahedron.sofa (FreeFieldDirectivityTF)
+Detected violations of the SOFA convention:
+N_Units is Hertz but must contain only lower case letters when writing SOFA files to disk.
+
+database-tu-berlin (directivity)-Trumpet_modern_et_ff_a4_rawData.sofa (FreeFieldDirectivityTF)
+Detected violations of the SOFA convention:
+N_Units is Hertz but must contain only lower case letters when writing SOFA files to disk.
+
+database-tu-berlin (directivity)-Trumpet_modern_et_ff_all_tensorData.sofa (FreeFieldDirectivityTF)
+Detected violations of the SOFA convention:
+N_Units is Hertz but must contain only lower case letters when writing SOFA files to disk.
+
+database-oldenburg-Kayser2009_Anechoic.sofa (SimpleFreeFieldHRIR)
+Detected violations of the SOFA convention:
+- GLOBAL_RoomType is Anechoic but must be free field, reverberant, shoebox, dae
+GLOBAL_RoomType is Anechoic but must be ['free field']
+
+
+database-room transition dataset-Room Transition RIRs_Meeting Room to Hallway_Source in Hallway_No Line of Sight.sofa (GeneralFIR)
+Detected violations of the SOFA convention:
+- GLOBAL_RoomType is Meeting Room to Hallway but must be free field, reverberant, shoebox, dae
+
+
+database-6dof dataset-6DoF_SRIRs_eigenmike_SH_0percent_absorbers_enabled.sofa (GeneralFIR)
+Detected violations of the SOFA convention:
+- GLOBAL_RoomType is Variable Acoustics Room with 0% of variable acoustic absorbers enabled. but must be free field, reverberant, shoebox, dae
+
+
+headphones-ari-hpir_nh2.sofa (SimpleHeadphoneIR)
+Detected violations of the SOFA convention:
+Data_SamplingRate_Units is Hertz but must contain only lower case letters when writing SOFA files to disk.
+
