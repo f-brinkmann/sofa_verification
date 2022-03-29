@@ -36,6 +36,11 @@ Detected violations of the SOFA convention:
 - Dimension E is of size 9 but must be 1 if GLOBAL_SOFAConventions is SimpleFreeFieldHRIR
 
 
+database-pku-ioa-dist_0.2m.sofa (SimpleFreeFieldHRIR)
+Detected violations of the SOFA convention:
+- EmitterPosition_Units is metre but must be degree, degree, metre if EmitterPosition_Type is spherical
+
+
 database-tu-berlin (directivity)-ITA_Dodecahedron.sofa (FreeFieldDirectivityTF)
 Detected violations of the SOFA convention:
 N_Units is Hertz but must contain only lower case letters when writing SOFA files to disk.
@@ -51,7 +56,7 @@ N_Units is Hertz but must contain only lower case letters when writing SOFA file
 database-oldenburg-Kayser2009_Anechoic.sofa (SimpleFreeFieldHRIR)
 Detected violations of the SOFA convention:
 - GLOBAL_RoomType is Anechoic but must be free field, reverberant, shoebox, dae
-GLOBAL_RoomType is Anechoic but must be ['free field']
+- GLOBAL_RoomType is Anechoic but must be free field if GLOBAL_SOFAConventions is SimpleFreeFieldHRIR
 
 
 database-room transition dataset-Room Transition RIRs_Meeting Room to Hallway_Source in Hallway_No Line of Sight.sofa (GeneralFIR)
@@ -67,4 +72,9 @@ Detected violations of the SOFA convention:
 headphones-ari-hpir_nh2.sofa (SimpleHeadphoneIR)
 Detected violations of the SOFA convention:
 Data_SamplingRate_Units is Hertz but must contain only lower case letters when writing SOFA files to disk.
+
+headphones-tu-berlin-AKG K141 MKII.sofa (SimpleHeadphoneIR)
+Detected violations of the SOFA convention:
+- GLOBAL_RoomDescription must be given if GLOBAL_RoomType is reverberant
+
 

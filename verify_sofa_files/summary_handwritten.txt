@@ -2,7 +2,7 @@ Reading errors
 --------------
 
 1 Time: Convention 'SimpleFreeFieldTF' does not exist
-- sofa_api_mo_test-ARI_NH4_4_freqs.sofa
+- sofa_api_mo_test-ARI_NH4_4_freqs.sofa (It is assumed that this is a file for test cases only API_MO does not write files with invalid conventions.)
 
 14 Times: Version 0.4 does not exist for convention SimpleFreeFieldHRIR
 
@@ -30,7 +30,7 @@ Reading errors
 - headphones-ari-hpir_nh2.sofa
 - headphones-btdei-H010-BTDEI-hp_H010-subj_S115-Set02_BEC-COMPENSATED.sofa
 - headphones-btdei-H010-BTDEI-hp_H010-subj_S115-Set02_BEC-RAW.sofa
-- headphones-tu-berlin-HpIRs.sofa
+- headphones-AKG K141 MKII.sofa
 
 1 Time: Version 0.2 does not exist for convention SingleRoomDRIR
 - sofa_api_mo_test-Oldenburg_OfficeII.sofa
@@ -55,10 +55,16 @@ Violations of the SOFA standard
 - 3d3a-Subject1_HRIRs_dfeq.sofa (SimpleFreeFieldHRIR)
 - 3d3a-Subject1_HRIRs_lfc.sofa (SimpleFreeFieldHRIR)
 
-4 Times: GLOBAL_RoomType is *
+3 Times: GLOBAL_RoomType is *
 - oldenburg-Kayser2009_Anechoic.sofa (SimpleFreeFieldHRIR)
 - room transition dataset-Room Transition RIRs_Meeting Room to Hallway_Source in Hallway_No Line of Sight.sofa (GeneralFIR)
 - 6dof dataset-6DoF_SRIRs_eigenmike_SH_0percent_absorbers_enabled.sofa (GeneralFIR)
+
+1 Time: EmitterPosition_Units is metre but must be degree, degree, metre if EmitterPosition_Type is spherical
+- database-pku-ioa-dist_0.2m.sofa (SimpleFreeFieldHRIR)
+
+1 Time: GLOBAL_RoomDescription must be given if GLOBAL_RoomType is reverberant
+- headphones-tu-berlin-AKG K141 MKII.sofa (SimpleHeadphoneIR)
 
 Custom Variables
 ----------------
@@ -67,9 +73,3 @@ Reduntant attributes ListenerUp_Type, ListenerUp_Units, SourceUp_Type, SourceUp_
 
 Misspelled attributes: GLOBAL_Reference
 - examples-FreeFieldDirectivityTF.sofa (FreeFieldDirectivityTF)
-
-
-Unification - Comments
-----------------------
-ListenerView_Type and SourceView_Type: Note that this also holds for *Up_Type
-ListenerView_Type and SourceView_Type: Note that this also holds for *Up_Type

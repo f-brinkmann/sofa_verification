@@ -295,7 +295,8 @@ for n, file_name in enumerate(file_names):
         conventions[sofa.GLOBAL_SOFAConventions] += 1
 
 # %% summary
-summary = (f"Tested {n + 1} files from {len(data)} databases on {date.today().strftime('%B %d, %Y')} "
+summary = (f"Tested {n + 1} files from {len(data)} databases on "
+           f"{date.today().strftime('%B %d, %Y')} "
            f"using sofar version {sf.__version__}\n\n"
            f"Correct files:           {count_correct}\n"
            f"Incorrect files:         {count_incorrect}\n"

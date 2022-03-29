@@ -1,7 +1,7 @@
-Tested 99 files from 35 databases on March 25, 2022 using sofar version 0.3.1
+Tested 99 files from 35 databases on March 29, 2022 using sofar version 1.0.0
 
-Correct files:           83
-Incorrect files:         15
+Correct files:           81
+Incorrect files:         17
 Reading errors (caught): 22
 Reading errors (fatal):  1
 

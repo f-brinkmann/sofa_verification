@@ -210,9 +210,6 @@ database-clubfritz-ClubFritz2.sofa (SimpleFreeFieldHRIR)
 database-viking-subj_A.sofa (SimpleFreeFieldHRIR)
 
 
-database-pku-ioa-dist_0.2m.sofa (SimpleFreeFieldHRIR)
-
-
 database-ari (bte)-dtf_ci1.sofa (SimpleFreeFieldHRIR)
 
 
@@ -244,8 +241,5 @@ headphones-btdei-H010-BTDEI-hp_H010-subj_S115-Set02_BEC-COMPENSATED.sofa (Simple
 
 
 headphones-btdei-H010-BTDEI-hp_H010-subj_S115-Set02_BEC-RAW.sofa (SimpleHeadphoneIR)
-
-
-headphones-tu-berlin-AKG K141 MKII.sofa (SimpleHeadphoneIR)
 
 
