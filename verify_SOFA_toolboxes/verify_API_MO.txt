@@ -1,0 +1,197 @@
+[Warning: Convention invalid-value not found.] 
+restricted_values\GLOBAL_SOFAConventions=invalid-value.sofa
+Unsupported SOFA conventions: invalid-value
+ 
+[Warning: EmitterPosition_Units was missing, set to default] 
+specific_dependencies\EmitterPosition_Type=cartesian.EmitterPosition_Units=missing.sofa
+ 
+[Warning: EmitterPosition_Units was missing, set to default] 
+specific_dependencies\EmitterPosition_Type=spherical harmonics.EmitterPosition_Units=missing.sofa
+ 
+[Warning: EmitterPosition_Units was missing, set to default] 
+specific_dependencies\EmitterPosition_Type=spherical.EmitterPosition_Units=missing.sofa
+ 
+[Warning: Data.Delay was missing, set to default] 
+specific_dependencies\GLOBAL_DataType=FIR-E.Data_Delay=missing.sofa
+ 
+[Warning: Data.IR was missing, set to default] 
+specific_dependencies\GLOBAL_DataType=FIR-E.Data_IR=missing.sofa
+ 
+[Warning: Data.SamplingRate was missing, set to default] 
+specific_dependencies\GLOBAL_DataType=FIR-E.Data_SamplingRate=missing.sofa
+Reference to non-existent field 'SamplingRate_Units'.
+ 
+specific_dependencies\GLOBAL_DataType=FIR-E.Data_SamplingRate_Units=missing.sofa
+Reference to non-existent field 'SamplingRate_Units'.
+ 
+[Warning: Data.Delay was missing, set to default] 
+specific_dependencies\GLOBAL_DataType=FIR.Data_Delay=missing.sofa
+ 
+[Warning: Data.IR was missing, set to default] 
+specific_dependencies\GLOBAL_DataType=FIR.Data_IR=missing.sofa
+ 
+[Warning: Data.SamplingRate was missing, set to default] 
+specific_dependencies\GLOBAL_DataType=FIR.Data_SamplingRate=missing.sofa
+Reference to non-existent field 'SamplingRate_Units'.
+ 
+specific_dependencies\GLOBAL_DataType=FIR.Data_SamplingRate_Units=missing.sofa
+Reference to non-existent field 'SamplingRate_Units'.
+ 
+[Warning: Data.Delay was missing, set to default] 
+specific_dependencies\GLOBAL_DataType=FIRE.Data_Delay=missing.sofa
+ 
+[Warning: Data.IR was missing, set to default] 
+specific_dependencies\GLOBAL_DataType=FIRE.Data_IR=missing.sofa
+ 
+[Warning: Data.SamplingRate was missing, set to default] 
+specific_dependencies\GLOBAL_DataType=FIRE.Data_SamplingRate=missing.sofa
+Reference to non-existent field 'SamplingRate_Units'.
+ 
+specific_dependencies\GLOBAL_DataType=FIRE.Data_SamplingRate_Units=missing.sofa
+Reference to non-existent field 'SamplingRate_Units'.
+ 
+[Warning: Data.Delay was missing, set to default] 
+specific_dependencies\GLOBAL_DataType=SOS.Data_Delay=missing.sofa
+ 
+[Warning: Data.SOS was missing, set to default] 
+specific_dependencies\GLOBAL_DataType=SOS.Data_SOS=missing.sofa
+ 
+[Warning: Data.SamplingRate was missing, set to default] 
+specific_dependencies\GLOBAL_DataType=SOS.Data_SamplingRate=missing.sofa
+Reference to non-existent field 'SamplingRate_Units'.
+ 
+specific_dependencies\GLOBAL_DataType=SOS.Data_SamplingRate_Units=missing.sofa
+Reference to non-existent field 'SamplingRate_Units'.
+ 
+[Warning: Data.Imag was missing, set to default] 
+specific_dependencies\GLOBAL_DataType=TF-E.Data_Imag=missing.sofa
+ 
+[Warning: Data.Real was missing, set to default] 
+specific_dependencies\GLOBAL_DataType=TF-E.Data_Real=missing.sofa
+ 
+[Warning: N was missing, set to default] 
+[Warning: N_Units was missing, set to default] 
+specific_dependencies\GLOBAL_DataType=TF-E.N=missing.sofa
+ 
+[Warning: N_Units was missing, set to default] 
+specific_dependencies\GLOBAL_DataType=TF-E.N_Units=missing.sofa
+ 
+[Warning: Data.Imag was missing, set to default] 
+specific_dependencies\GLOBAL_DataType=TF.Data_Imag=missing.sofa
+ 
+[Warning: Data.Real was missing, set to default] 
+specific_dependencies\GLOBAL_DataType=TF.Data_Real=missing.sofa
+ 
+[Warning: N was missing, set to default] 
+[Warning: N_LongName was missing, set to default] 
+[Warning: N_Units was missing, set to default] 
+specific_dependencies\GLOBAL_DataType=TF.N=missing.sofa
+ 
+[Warning: N_Units was missing, set to default] 
+specific_dependencies\GLOBAL_DataType=TF.N_Units=missing.sofa
+ 
+[Warning: Data.Imag was missing, set to default] 
+specific_dependencies\GLOBAL_DataType=TFE.Data_Imag=missing.sofa
+ 
+[Warning: Data.Real was missing, set to default] 
+specific_dependencies\GLOBAL_DataType=TFE.Data_Real=missing.sofa
+ 
+[Warning: N was missing, set to default] 
+[Warning: N_Units was missing, set to default] 
+specific_dependencies\GLOBAL_DataType=TFE.N=missing.sofa
+ 
+[Warning: N_Units was missing, set to default] 
+specific_dependencies\GLOBAL_DataType=TFE.N_Units=missing.sofa
+ 
+specific_dependencies\GLOBAL_SOFAConventions=FreeFieldDirectivityTF.GLOBAL_DataType=missing.sofa
+DataType is missing
+ 
+specific_dependencies\GLOBAL_SOFAConventions=FreeFieldHRIR.GLOBAL_DataType=missing.sofa
+DataType is missing
+ 
+[Warning: GLOBAL_RoomType was missing, set to default] 
+specific_dependencies\GLOBAL_SOFAConventions=FreeFieldHRIR.GLOBAL_RoomType=missing.sofa
+ 
+specific_dependencies\GLOBAL_SOFAConventions=FreeFieldHRTF.GLOBAL_DataType=missing.sofa
+DataType is missing
+ 
+[Warning: GLOBAL_RoomType was missing, set to default] 
+specific_dependencies\GLOBAL_SOFAConventions=FreeFieldHRTF.GLOBAL_RoomType=missing.sofa
+ 
+specific_dependencies\GLOBAL_SOFAConventions=GeneralFIR-E.GLOBAL_DataType=missing.sofa
+DataType is missing
+ 
+specific_dependencies\GLOBAL_SOFAConventions=GeneralFIR.GLOBAL_DataType=missing.sofa
+DataType is missing
+ 
+specific_dependencies\GLOBAL_SOFAConventions=GeneralFIRE.GLOBAL_DataType=missing.sofa
+DataType is missing
+ 
+specific_dependencies\GLOBAL_SOFAConventions=GeneralTF-E.GLOBAL_DataType=missing.sofa
+DataType is missing
+ 
+specific_dependencies\GLOBAL_SOFAConventions=GeneralTF.GLOBAL_DataType=missing.sofa
+DataType is missing
+ 
+[Warning: EmitterPosition_Type was missing, set to default] 
+specific_dependencies\GLOBAL_SOFAConventions=SimpleFreeFieldHRIR.EmitterPosition_Type=missing.sofa
+ 
+specific_dependencies\GLOBAL_SOFAConventions=SimpleFreeFieldHRIR.GLOBAL_DataType=missing.sofa
+DataType is missing
+ 
+[Warning: GLOBAL_RoomType was missing, set to default] 
+specific_dependencies\GLOBAL_SOFAConventions=SimpleFreeFieldHRIR.GLOBAL_RoomType=missing.sofa
+ 
+[Warning: EmitterPosition_Type was missing, set to default] 
+specific_dependencies\GLOBAL_SOFAConventions=SimpleFreeFieldHRSOS.EmitterPosition_Type=missing.sofa
+ 
+specific_dependencies\GLOBAL_SOFAConventions=SimpleFreeFieldHRSOS.GLOBAL_DataType=missing.sofa
+DataType is missing
+ 
+[Warning: GLOBAL_RoomType was missing, set to default] 
+specific_dependencies\GLOBAL_SOFAConventions=SimpleFreeFieldHRSOS.GLOBAL_RoomType=missing.sofa
+ 
+[Warning: EmitterPosition_Type was missing, set to default] 
+specific_dependencies\GLOBAL_SOFAConventions=SimpleFreeFieldHRTF.EmitterPosition_Type=missing.sofa
+ 
+specific_dependencies\GLOBAL_SOFAConventions=SimpleFreeFieldHRTF.GLOBAL_DataType=missing.sofa
+DataType is missing
+ 
+[Warning: GLOBAL_RoomType was missing, set to default] 
+specific_dependencies\GLOBAL_SOFAConventions=SimpleFreeFieldHRTF.GLOBAL_RoomType=missing.sofa
+ 
+specific_dependencies\GLOBAL_SOFAConventions=SimpleHeadphoneIR.GLOBAL_DataType=missing.sofa
+DataType is missing
+ 
+specific_dependencies\GLOBAL_SOFAConventions=SingleRoomMIMOSRIR.GLOBAL_DataType=missing.sofa
+DataType is missing
+ 
+specific_dependencies\GLOBAL_SOFAConventions=SingleRoomSRIR.GLOBAL_DataType=missing.sofa
+DataType is missing
+ 
+[Warning: ListenerPosition_Units was missing, set to default] 
+specific_dependencies\ListenerPosition_Type=cartesian.ListenerPosition_Units=missing.sofa
+ 
+[Warning: ListenerPosition_Units was missing, set to default] 
+specific_dependencies\ListenerPosition_Type=spherical.ListenerPosition_Units=missing.sofa
+ 
+[Warning: ReceiverPosition_Units was missing, set to default] 
+specific_dependencies\ReceiverPosition_Type=cartesian.ReceiverPosition_Units=missing.sofa
+ 
+[Warning: ReceiverPosition_Units was missing, set to default] 
+specific_dependencies\ReceiverPosition_Type=spherical harmonics.ReceiverPosition_Units=missing.sofa
+ 
+[Warning: ReceiverPosition_Units was missing, set to default] 
+specific_dependencies\ReceiverPosition_Type=spherical.ReceiverPosition_Units=missing.sofa
+ 
+[Warning: SourcePosition_Units was missing, set to default] 
+specific_dependencies\SourcePosition_Type=cartesian.SourcePosition_Units=missing.sofa
+ 
+[Warning: SourcePosition_Units was missing, set to default] 
+specific_dependencies\SourcePosition_Type=spherical.SourcePosition_Units=missing.sofa
+ 
+-----------------------------------------
+SUMMARY
+156 files
+23 errors
+38 warnings
