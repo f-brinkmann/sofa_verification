@@ -1,0 +1,21 @@
+name: 2022_JAES_sofar_appendix
+channels:
+  - defaults
+dependencies:
+  - h5py
+  - ipykernel
+  - matplotlib
+  - numpy
+  - pip
+  - python=3.9
+  - scipy
+  - scons
+  - tqdm
+  - flake8
+  - netcdf4
+  - pip:
+    - sofar>=0.1.4
+    - pyfar==0.4.0
+    - "git+ssh://git@github.com/mberz/nbflow.git@91bd2cf4912455bb789509034bde22ab7a4bbda1#egg=nbflow"
+prefix: ./env/2022_JAES_sofar_appendix
+
